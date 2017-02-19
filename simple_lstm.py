@@ -1,3 +1,9 @@
+#encoding: utf-8
+'''
+@author: huangjin (Jeff)
+@email: hj51yc@gmail.com
+using LSTM to do char-rnn job
+'''
 
 import sys, os
 import numpy as np
